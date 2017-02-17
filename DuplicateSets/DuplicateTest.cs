@@ -22,7 +22,7 @@ namespace DuplicateSets
         { }
         #endregion
 
-        #region Public Getters to Access library  functionality
+        #region Public Getters to Access library functionality
 
         public string GetInvalidInputs
         {
@@ -70,7 +70,7 @@ namespace DuplicateSets
 
         #endregion
 
-        #region Private properties
+        #region Private properties Getters/Setters
 
         private List<int> SetInputA
         {
