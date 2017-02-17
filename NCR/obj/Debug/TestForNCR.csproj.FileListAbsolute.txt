@@ -31,3 +31,14 @@ f:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná
 f:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\NCR\obj\Debug\NCR.MainWindow.resources
 f:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\NCR\obj\Debug\NCR.Properties.Resources.resources
 f:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\NCR\obj\Debug\TestForNCR.csproj.GenerateResource.Cache
+F:\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\DuplicateTestForNCR\NCR\bin\Debug\NCR.exe.config
+F:\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\DuplicateTestForNCR\NCR\obj\Debug\NCR.exe
+F:\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\DuplicateTestForNCR\NCR\obj\Debug\NCR.pdb
+F:\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\DuplicateTestForNCR\NCR\bin\Debug\NCR.exe
+F:\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\DuplicateTestForNCR\NCR\bin\Debug\NCR.pdb
+F:\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\DuplicateTestForNCR\NCR\bin\Debug\DuplicateSets.dll
+F:\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\DuplicateTestForNCR\NCR\bin\Debug\DuplicateSets.pdb
+F:\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\DuplicateTestForNCR\NCR\obj\Debug\TestForNCR.csprojResolveAssemblyReference.cache
+F:\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\DuplicateTestForNCR\NCR\obj\Debug\NCR.MainWindow.resources
+F:\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\DuplicateTestForNCR\NCR\obj\Debug\NCR.Properties.Resources.resources
+F:\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\DuplicateTestForNCR\NCR\obj\Debug\TestForNCR.csproj.GenerateResource.Cache

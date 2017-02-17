@@ -22,7 +22,6 @@ namespace DuplicateSets
         { }
         #endregion
 
-        #region Public accessible properites
 
         public string GetInvalidInputs
         {
