@@ -1,0 +1,13 @@
+F:\NAVRHOVÁNÍ ZAHRAD\NCR\DuplicateSets\bin\Debug\DuplicateSets.dll
+F:\NAVRHOVÁNÍ ZAHRAD\NCR\DuplicateSets\bin\Debug\DuplicateSets.pdb
+F:\NAVRHOVÁNÍ ZAHRAD\NCR\DuplicateSets\obj\Debug\DuplicateSets.dll
+F:\NAVRHOVÁNÍ ZAHRAD\NCR\DuplicateSets\obj\Debug\DuplicateSets.pdb
+f:\NAVRHOVÁNÍ ZAHRAD\TestForNCR\DuplicateSets\bin\Debug\DuplicateSets.dll
+f:\NAVRHOVÁNÍ ZAHRAD\TestForNCR\DuplicateSets\bin\Debug\DuplicateSets.pdb
+f:\NAVRHOVÁNÍ ZAHRAD\TestForNCR\DuplicateSets\obj\Debug\DuplicateSets.dll
+f:\NAVRHOVÁNÍ ZAHRAD\TestForNCR\DuplicateSets\obj\Debug\DuplicateSets.pdb
+f:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\DuplicateSets\obj\Debug\DuplicateSets.csprojResolveAssemblyReference.cache
+f:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\DuplicateSets\obj\Debug\DuplicateSets.dll
+f:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\DuplicateSets\obj\Debug\DuplicateSets.pdb
+f:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\DuplicateSets\bin\Debug\DuplicateSets.dll
+f:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\DuplicateSets\bin\Debug\DuplicateSets.pdb

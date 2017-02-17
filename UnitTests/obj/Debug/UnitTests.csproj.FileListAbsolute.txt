@@ -1,0 +1,9 @@
+F:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\UnitTests\bin\Debug\UnitTests.dll
+F:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\UnitTests\bin\Debug\UnitTests.pdb
+F:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\UnitTests\bin\Debug\DuplicateSets.dll
+F:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\UnitTests\bin\Debug\DuplicateSets.pdb
+F:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\UnitTests\bin\Debug\cs\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+F:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\UnitTests\obj\Debug\UnitTests.dll
+F:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\UnitTests\obj\Debug\UnitTests.pdb

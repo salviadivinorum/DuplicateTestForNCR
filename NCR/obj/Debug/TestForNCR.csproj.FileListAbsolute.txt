@@ -1,0 +1,33 @@
+F:\NAVRHOVÁNÍ ZAHRAD\NCR\NCR\bin\Debug\NCR.exe.config
+F:\NAVRHOVÁNÍ ZAHRAD\NCR\NCR\bin\Debug\NCR.exe
+F:\NAVRHOVÁNÍ ZAHRAD\NCR\NCR\bin\Debug\NCR.pdb
+F:\NAVRHOVÁNÍ ZAHRAD\NCR\NCR\obj\Debug\NCR.Form1.resources
+F:\NAVRHOVÁNÍ ZAHRAD\NCR\NCR\obj\Debug\NCR.Properties.Resources.resources
+F:\NAVRHOVÁNÍ ZAHRAD\NCR\NCR\obj\Debug\TestForNCR.csproj.GenerateResource.Cache
+F:\NAVRHOVÁNÍ ZAHRAD\NCR\NCR\obj\Debug\NCR.exe
+F:\NAVRHOVÁNÍ ZAHRAD\NCR\NCR\obj\Debug\NCR.pdb
+F:\NAVRHOVÁNÍ ZAHRAD\NCR\NCR\obj\Debug\TestForNCR.csprojResolveAssemblyReference.cache
+F:\NAVRHOVÁNÍ ZAHRAD\NCR\NCR\bin\Debug\DuplicateSets.dll
+F:\NAVRHOVÁNÍ ZAHRAD\NCR\NCR\bin\Debug\DuplicateSets.pdb
+f:\NAVRHOVÁNÍ ZAHRAD\TestForNCR\NCR\bin\Debug\NCR.exe.config
+f:\NAVRHOVÁNÍ ZAHRAD\TestForNCR\NCR\obj\Debug\NCR.exe
+f:\NAVRHOVÁNÍ ZAHRAD\TestForNCR\NCR\obj\Debug\NCR.pdb
+f:\NAVRHOVÁNÍ ZAHRAD\TestForNCR\NCR\bin\Debug\NCR.exe
+f:\NAVRHOVÁNÍ ZAHRAD\TestForNCR\NCR\bin\Debug\NCR.pdb
+f:\NAVRHOVÁNÍ ZAHRAD\TestForNCR\NCR\bin\Debug\DuplicateSets.dll
+f:\NAVRHOVÁNÍ ZAHRAD\TestForNCR\NCR\bin\Debug\DuplicateSets.pdb
+f:\NAVRHOVÁNÍ ZAHRAD\TestForNCR\NCR\obj\Debug\TestForNCR.csprojResolveAssemblyReference.cache
+f:\NAVRHOVÁNÍ ZAHRAD\TestForNCR\NCR\obj\Debug\NCR.MainWindow.resources
+f:\NAVRHOVÁNÍ ZAHRAD\TestForNCR\NCR\obj\Debug\NCR.Properties.Resources.resources
+f:\NAVRHOVÁNÍ ZAHRAD\TestForNCR\NCR\obj\Debug\TestForNCR.csproj.GenerateResource.Cache
+f:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\NCR\bin\Debug\NCR.exe.config
+f:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\NCR\obj\Debug\NCR.exe
+f:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\NCR\obj\Debug\NCR.pdb
+f:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\NCR\bin\Debug\NCR.exe
+f:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\NCR\bin\Debug\NCR.pdb
+f:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\NCR\bin\Debug\DuplicateSets.dll
+f:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\NCR\bin\Debug\DuplicateSets.pdb
+f:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\NCR\obj\Debug\TestForNCR.csprojResolveAssemblyReference.cache
+f:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\NCR\obj\Debug\NCR.MainWindow.resources
+f:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\NCR\obj\Debug\NCR.Properties.Resources.resources
+f:\NAVRHOVÁNÍ ZAHRAD\Domácí úkol pro NCR firmu\3. pokus lépe zkombinovaná dll a WF app\NCR\obj\Debug\TestForNCR.csproj.GenerateResource.Cache
