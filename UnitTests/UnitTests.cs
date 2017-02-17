@@ -66,7 +66,7 @@ namespace UnitTests
 
 
         [TestMethod]
-        public void Test_Records_From_Test_File()
+        public void Test_The_Records_From_Test_File()
         {
             // arrange
             bool fileExpectedToPassTest = true;
