@@ -5,11 +5,9 @@ using System.Windows.Forms;
 using DuplicateSets;
 
 
-
 // the time compexity of my solution is O(log N)
-// writing unit test is out of my capacity - at first I'm not skilled in, second I do not have enough time to write it down
-// all I did were No.1,2,4 NCR tasks, the solution comes below incl. requested dll
-// my time I have spent on it was 8 hours
+// unit test includedů all NCR tasks completeted !
+// my time I have spent on it was 10 hours
 
 namespace NCR
 {
