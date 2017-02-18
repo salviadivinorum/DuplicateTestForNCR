@@ -6,8 +6,8 @@ using DuplicateSets;
 
 
 // the time compexity of my solution is O(log N)
-// unit test includedů all NCR tasks completeted !
-// my time I have spent on it was 10 hours
+// unit test included and all NCR tasks completeted !
+// the time I have spent on it was 10 hours
 
 namespace NCR
 {
