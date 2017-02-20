@@ -5,7 +5,7 @@ using System.Linq;
 namespace DuplicateSets
 {
     /// <summary>
-    /// Instance this class to start tests of two sets A,B: Compare(List<A>, List<B>)
+    /// Instance this class to start tests of two sets A,B: Compare(string A, string B)
     /// </summary>
     public class DuplicateTest
     {

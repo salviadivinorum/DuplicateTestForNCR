@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Windows.Forms;
 
-// requested library connected:
+// required library connected:
 using DuplicateSets;
 
 
-// the time compexity of my solution is O(log N)
+// the time complexity of my solution is O(log N)
 // unit test included and all NCR tasks completeted !
-// the time I have spent on it was 10 hours
+// the time I have spent on it was about 10 hours
 
 namespace NCR
 {
