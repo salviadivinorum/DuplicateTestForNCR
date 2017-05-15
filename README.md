@@ -10,6 +10,8 @@ IDE: MS Visual Studio 2015, .NET Framework 4.5.2, Visual C#
 
 See you, David, Jeseník
 
+PS: No mercy for quantum abstraction. I have failed to pass the above NCR exam. 
+
 
 
 
